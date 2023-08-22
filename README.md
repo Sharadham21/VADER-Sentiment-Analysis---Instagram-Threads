@@ -7,10 +7,12 @@ ABOUT DATASETS:
 
 Instagram Play Store Reviews - Kaggle 
   The dataset obtained from Kaggle entails an extensive collection of user reviews on the Google Play Store for the social media platform Instagram. Kaggle contributor Saloni Jhalani obtained the data by scraping Instagram App reviews from the Google Play Store. The dataset entails user reviews, review date and user ratings on a scale of 1 to 5. 
+  
   https://www.kaggle.com/datasets/saloni1712/instagram-play-store-reviews
 
 Threads Reviews - Kaggle 
   The dataset from Kaggle entails an extensive collection of user reviews on the Google Play Store for the social media platform Threads. Kaggle contributor Saloni Jhalani obtained the data by scraping Instagram App reviews from the Google Play Store and App Store. The dataset entails user reviews, review date and user ratings on a scale of 1 to 5. 
+  
   https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
 
 Sentiment Analysis Method - VADER: 

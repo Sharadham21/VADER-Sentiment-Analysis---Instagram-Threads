@@ -15,7 +15,7 @@ Threads Reviews - Kaggle
   
   https://www.kaggle.com/datasets/saloni1712/threads-an-instagram-app-reviews
 
-Sentiment Analysis Method - VADER: 
+CHOSEN SENTIMENT ANALYSIS TOOL - VADER: 
 
   VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiment Analysis is a powerful tool utilized in natural language processing. VADER enables users to determine the overall sentiment in a piece of text, typically short and informal, thus making it highly suitable for analyzing user reviews and comments. The SentimentIntensityAnalyzer which is part of Python's Natural Language Toolkit (nltk) library was utilised for this study. 
 

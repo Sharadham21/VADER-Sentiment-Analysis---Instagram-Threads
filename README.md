@@ -1,5 +1,5 @@
 # VADER-Sentiment-Analysis---Instagram-Threads
-Instagram is a social media platform that has become one of the most popular and widely used worldwide. Instagram has a massive user base of over a billion active monthly users worldwide, highlighting its global presence. 
+Instagram is a social media platform that has become one of the most popular of its kind and is widely used worldwide. Instagram has a massive user base of over a billion active monthly users worldwide, highlighting its global presence. 
 Threads is another standalone social media platform developed by Facebook, Inc. to create a personalized space for more focused and intimate communication. 
 Considering the prevalence of social media in today's world, the sentiment surrounding such platforms is of relevance when studying societal trends and patterns. 
 
